@@ -10,3 +10,4 @@
 * [Comments](comments)
 * [Variable](variables)
 * [Data Types](dataTypes)
+* [Operators](operators)
